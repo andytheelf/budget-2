@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="./src/bud2.png" alt="mainpage"/>
+    <img src="./src/bud2.jpg" alt="mainpage"/>
 </p>
 
 
