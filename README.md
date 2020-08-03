@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    ![Budget](./src/bud2.jpg)
+    <img src="./src/bud2.jpg" alt="mainpage"/>
 </p>
 
 
